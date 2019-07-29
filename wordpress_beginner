@@ -1,0 +1,169 @@
+wordpress
+
+deleted all plug in
+plugins -> scroll down deactivate(apply) ->delete(apply)
+
+deleted (make simple url name)
+dashboad ->setting->permalirlinks->post name(change)
+
+the theme of website
+appearance -> add new -(search-astra)
+
+dashboad ->plugins->astra starter sites ->make active
+
+pages ->move to trash->apply
+deleted permanently
+
+appearance->astra sites ->elementor
+->install pulgins
+
+change site title
+customize ->layout ->header->site identity->select log
+
+site title (you can just change)
+:disply site Tagline(uncheck)
+click back button to go back.
+
+typography->primary header ->change font size
+
+color and background -->
+background overlay color
+:header div color change.
+
+Site title hover color
+:when you hover over header font the fornt color change
+
+Published (when you done change make active press the button)
+
+Edit with Elementor
+when you want to change background
+click button on the top middle.
+and choose what you like and change img
+
+background overlay
+:change the tone of background color
+
+Advanced
+you can deal with margin and padding
+
+Style
+:you can also change Attachment  with your background when you scroll down your mouse.
+(update)
+
+edit image box
+:when you want to move the edit positon you can just drag the pen img hold it and move to the position.
+
+if you want to change button style you
+can also copy another button and paste it. 
+
+Edit text editor
+:If you want to change text you can change everything form text ditor
+
+click button on the top middel.
+change layout content width
+
+History
+
+Video be background
+edit section ->style->click video icon
+add video link url  ->change start time and end time (make them loop)
+
+Add new section
+
++ button to new section
+
+
+bottom middle icon click
+Responsive mode
+mobile button to responsive mobile
+when you change for mobile make sure your mobile button get selected.
+
+also video is not 100% working at mobile so make sure you can change video to img
+(Background Fallback click choose img)
+
+if you have too many img in the page you can hide for mobile version.
+go to Avnanced ->Click Responsive ->check Hide on Mobile.
+
+Edit Icon Box
+Advanced->
+Entrance Animation
+->fade in up(you can select what you wnat)
+Animation duration
+->speed
+
+if you want to make image change when you hover Click the image and go to Style and click Hover and Hover Animation(Grow Rotate-you can choose what ever you like)
+
+Rerange Page
+Click Edit with Elementor on the top 
+
+Add new page
+Dashboard ->pages->add new
+
+Add title (put new name) ->Click on top
+Edit with Elementor -->click folder icon -->
+open library for Blocks(click what you like)
+->click insert button 
+(새로운 페이지 하나를  선택하게 됨)
+
+Add title (put new name) ->Click on top
+Edit with Elementor -->click folder icon -->
+open library for Pages (click what you like)
+->click insert button 
+(새로운 웹페이지 전체를 선택하게됨)
+
+Transparent heading
+edit page -->on the right Document bottom
+->transparent Header ->choose Enabled
+(we can see our transparent heading)
+
+Add new menu bar
+on the top Customizing--> Menu ->click add item->they open new menu bar for what you have on your menu you can click and drag move to the menu section if you have too many menu you want to make sub menu you can just indentation under main menu you can see.
+
+Make button for menu
+on the top Customizing->layout ->header ->primary header->header layout 
+last item in Menu(Botton)
+Button Text(Contact)
+Button Link(/contact)
+Button Style(Custom Button)
+Click the Customize Button Style below
+->Header Button
+->Transparent Header Button
+(Now you can change your button style)
+
+logomakr.com (make your simple logo)
+
+Change logo
+on the top Customizing->layout ->header ->site identity-> click select logo ->upload files
+
+on the bottom  Tagline
+click Inline Logo & Site Title to make logo and title   
+
+Change Footer
+on the top Customizing->layout ->Footer->
+footer bar
+
+footer bar layout (click what you like)
+
+footer menu(you can also put the menu on the footer section too. Do it at the menu section) 
+
+colors & backgound
+->link color (change the footer background color)
+
+Section1( Footer Menu) :you can customizing
+Section2( all your information line break<br>)
+
+SSL -->보안 설정
+Dashboard =>Plugins =>search keyword SSL
+Really Simple SSL (Instal)
+go to Dashboard =>Settings =>SSL
+when it's done you can check Detected setup
+(An SSL cerificate was detected on your site.)
+
+Dashboard =>Elementor =>Tools =>
+Regenerate CSS
+
+          General   : Regenerate Files
+                           :Sync Library
+         Replace URL
+Update Site Address(URL) __Old URL___
+ __New URL___   Replace URL(click)
